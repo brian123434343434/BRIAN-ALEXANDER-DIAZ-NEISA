@@ -1,5 +1,5 @@
 [![bg][cover]][website]
-### Hi, I'm Baljeet and I am a Full Stack Web/Mobile Developer 👨‍💻
+### Hi, I'm Brian Diaz and I am a Full Stack Web/Mobile Developer 👨‍💻
 
 - 🔭 I’m currently working on MxGraph
 - 🌱 I’m currently learning Tailwind CSS 
@@ -17,19 +17,7 @@
 📦 [npm][npm] **|**
 👔 [linkedin][linkedin]
 
-[cover]: https://raw.githubusercontent.com/mbaljeetsingh/mbaljeetsingh/master/cover.png
-[website]: https://baljeetsingh.in
-[twitter]: https://twitter.com/mbaljeetsingh
-[youtube]: https://youtube.com/BaljeetSingh
-[npm]: https://npmjs.com/~mbaljeetsingh
-[linkedin]: https://linkedin.com/in/mbaljeetsingh
-[adobe]: https://adobe.com
-[react]: http://reactjs.org
-[gatsby]: https://gatsbyjs.org
-[styled]: https://styled-components.com
-[jamstack]: https://jamstack.org
-[murphee]: https://murphee.netlify.app
-[svelte]: https://svelte.dev
-[tailwind]: https://tailwindcss.com
-[twitch]: https://twitch.tv/bradgarropy
-[instagram]: https://instagram.com/bradgarropy
+
+[website]: https://doblefactor.com
+[youtube]: https://doblefactor.com
+[linkedin]: https://doblefactor.com
